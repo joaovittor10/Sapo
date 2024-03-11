@@ -1,0 +1,5 @@
+Usando:
+
+flex-direction: column-reverse;
+justify-content: space-between;
+Faz com que os itens fiquem de baixo para cima e depois eles se alinham com distância entre eles

@@ -1,0 +1,4 @@
+Usando:
+
+align-self: flex-end;
+Faz com que possamos mexer apenas um item de forma individual e é usado igual o align-items, mudando que é apenas um item

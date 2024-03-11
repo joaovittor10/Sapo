@@ -1,0 +1,5 @@
+Usando:
+
+flex-direction: column-reverse;
+align-content: center;
+Faz com que os itens fiquem de baixo para cima e depois se centralizam 

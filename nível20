@@ -1,0 +1,5 @@
+Usando:
+
+flex-flow: row wrap;
+flex-direction: column;
+Faz com que os itens virem colunas e se alinham em linha adicionais 

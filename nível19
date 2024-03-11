@@ -1,0 +1,5 @@
+Usando: 
+
+flex-direction: column;
+flex-wrap: wrap;
+Faz com que os itens virem coluna de cima para baixo e depois se separam em linhas adicionais

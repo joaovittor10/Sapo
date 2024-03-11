@@ -1,0 +1,7 @@
+Usando:
+
+justify-content: center;
+flex-direction: column-reverse;
+flex-wrap: wrap-reverse;
+align-content: space-between;
+Faz com que os itens se centralizem na tela, fiquem posicionados de baixo para cima, se separem em linha adicionais reversas e alinham-se com distância igual entre eles

@@ -1,0 +1,5 @@
+Usando:
+
+align-items: flex-end;
+justify-content: space-around;
+Faz com que os itens se alinhem na parte de baixo e depois se alinham com distância igual em torno deles

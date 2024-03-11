@@ -1,1 +1,5 @@
-n
+Usando:
+
+justify-content: center;
+align-items: center
+Faz com que os itens se centralizem na linha e depois se centralizem na tela

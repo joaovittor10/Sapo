@@ -1,0 +1,5 @@
+Usando:
+
+order: 2;
+align-self: flex-end;
+Faz com que trocamos 2 itens de lugar e depois alinhamos na parte de baixo da tela

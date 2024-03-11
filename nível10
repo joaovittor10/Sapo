@@ -1,0 +1,5 @@
+Usando:
+
+flex-direction: row-reverse;
+justify-content: flex-end;
+Faz ccom que os itens sejam posicionados na mesma direção do texto e depois alinham-se

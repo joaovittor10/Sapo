@@ -1,0 +1,6 @@
+Usando:
+
+flex-direction: row-reverse;
+justify-content: center;
+align-items: flex-end;
+Faz com que os itens sejam posicionados na direção oposta do texto, sejam centralizados e depois alinhados no final do contener

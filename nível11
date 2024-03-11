@@ -1,0 +1,5 @@
+Usando:
+
+flex-direction: column;
+justify-content: flex-end;
+Faz com que os itens fiquem de cima para baixo e depois se alinham
